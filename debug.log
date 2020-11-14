@@ -1,0 +1,2 @@
+[0921/180805.795:ERROR:file_io.cc(134)] WriteFile: The pipe is being closed. (0xE8)
+[0928/171317.739:ERROR:registration_protocol_win.cc(103)] CreateFile: The system cannot find the file specified. (0x2)

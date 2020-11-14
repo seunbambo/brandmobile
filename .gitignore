@@ -1,0 +1,34 @@
+/node_modules
+/public/hot
+/public/storage
+/storage/*.key
+/vendor
+.env
+.env.backup
+.end-remote
+.env-*
+.phpunit.result.cache
+composer.lock
+Homestead.json
+Homestead.yaml
+npm-debug.log
+yarn-error.log
+/logs/*
+!/logs/index.html
+
+
+
+
+# IDE Files
+#-------------------------
+/nbproject/
+.idea/*
+
+## Sublime Text cache files
+*.tmlanguage.cache
+*.tmPreferences.cache
+*.stTheme.cache
+*.sublime-workspace
+*.sublime-project
+/tests/tests/
+/tests/results/
